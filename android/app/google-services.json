@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363613672456",
+    "project_id": "alesco-shamo",
+    "storage_bucket": "alesco-shamo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363613672456:android:74db1bb9acf48f140d6dbd",
+        "android_client_info": {
+          "package_name": "com.alesco.shamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363613672456-37668bgbqc3mj0vsks1v64oump4ocdoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy72fXFK5Gh7Is1z7kUSug2eMeT7yDJ8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363613672456-37668bgbqc3mj0vsks1v64oump4ocdoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
