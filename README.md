@@ -2,10 +2,6 @@
 
 Projek E-commerce dan Chat menggunakan Flutter dan Dart.
 
-## Info Aplikasi
-
-Projek ini dari kursus Full-Stack Laravel Flutter 2021: Building E-Commerce and Chat Apps BuildWithAngga
-
 ## Screenshot Aplikasi
 <p float="left">
   <img src="https://github.com/AlescoZai/shamo-ecommerce-frontend/assets/36691452/b212c915-12cd-4bcc-a5aa-6917caf41ecb" width="32%" />
